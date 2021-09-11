@@ -2,7 +2,7 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me aadish.sumra@gmail.com
+- 📫 How to reach me aadish.sumra1@gmail.com
 
 <!---
 Aadish14/Aadish14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
